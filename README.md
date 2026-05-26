@@ -7,6 +7,8 @@ This repository contains datasets, reconstructed 3D models, evaluation results, 
 
 
 The repository was created as part of a master's thesis project.
+The complete data of thsi project can be downloaded here: 
+https://drive.google.com/file/d/1LwcmXKqUUsOgzKwMxrcYoBvKxGzo7BWs/view?usp=sharing
 
 
 
